@@ -1,14 +1,14 @@
 {
   "id": "tallBuilding",
-  "projectId": "2nxdYR2RHCDBiKJulbA_QU",
+  "projectId": "tallBuilding",
   "author": "",
   "createdAt": "2020-11-27T09:24:01",
   "schema": "IFC2X3",
   "creatingApplication": "21.1.10.26 - Exporter 21.1.10.26 - Alternate UI 21.1.10.26",
   "metaObjects": [
     {
-      "id": "2nxdYR2RHCDBiKJulbA_QU",
-      "name": "// PROJECT/NUMBER //",
+      "id": "tallBuilding",
+      "name": "tallBuilding",
       "type": "IfcProject",
       "parent": null
     },
