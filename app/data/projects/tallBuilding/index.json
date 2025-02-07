@@ -1,0 +1,412 @@
+{
+  "id": "tallBuilding",
+  "projectId": "2nxdYR2RHCDBiKJulbA_QU",
+  "author": "",
+  "createdAt": "2020-11-27T09:24:01",
+  "schema": "IFC2X3",
+  "creatingApplication": "21.1.10.26 - Exporter 21.1.10.26 - Alternate UI 21.1.10.26",
+  "metaObjects": [
+    {
+      "id": "2nxdYR2RHCDBiKJulbA_QU",
+      "name": "// PROJECT/NUMBER //",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "2nxdYR2RHCDBiKJulbA_QS",
+      "name": "Default",
+      "type": "IfcSite",
+      "parent": "2nxdYR2RHCDBiKJulbA_QU"
+    },
+    {
+      "id": "2nxdYR2RHCDBiKJulbA_QV",
+      "name": "// BUILDING/NAME //",
+      "type": "IfcBuilding",
+      "parent": "2nxdYR2RHCDBiKJulbA_QS"
+    },
+    {
+      "id": "2nxdYR2RHCDBiKJuiQr1XP",
+      "name": "Level 1",
+      "type": "IfcBuildingStorey",
+      "parent": "2nxdYR2RHCDBiKJulbA_QV"
+    },
+    {
+      "id": "0ZBert7zf3GhThdO12NKAr",
+      "name": "Basic Wall:Outside wall:358471",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThdO12NK9o",
+      "name": "Basic Wall:Outside wall:358528",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThdO12NK8_",
+      "name": "Basic Wall:Outside wall:358604",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThdO12NK86",
+      "name": "Basic Wall:Outside wall:358644",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NKFT",
+      "name": "M_Door-Interior-Double-Full Glass-Wood:1500 x 2000mm:358703",
+      "type": "IfcDoor",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NKCH",
+      "name": "M_Single-Flush:Outside door:358883",
+      "type": "IfcDoor",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThdO12NK7O",
+      "name": "Basic Wall:Inside:359210",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThdO12NK5w",
+      "name": "Basic Wall:Inside:359304",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NK5b",
+      "name": "M_Single-Flush:Outside door:359319",
+      "type": "IfcDoor",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NK4z",
+      "name": "M_Single-Flush:Inside Door:359375",
+      "type": "IfcDoor",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NKRs",
+      "name": "M_Single-Flush:Inside Door:359428",
+      "type": "IfcDoor",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NKQt",
+      "name": "M_Fixed:0915 x 1830mm:359493",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NKOd",
+      "name": "M_Fixed:0915 x 1830mm:359637",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NKVp",
+      "name": "M_Fixed:0915 x 1830mm:359681",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NKVB",
+      "name": "M_Fixed:0915 x 1830mm:359737",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NKUF",
+      "name": "M_Fixed:0915 x 1830mm:359805",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NKT1",
+      "name": "M_Fixed:0915 x 1830mm:359859",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRex",
+      "name": "Floor:Generic 150mm:360649",
+      "type": "IfcSlab",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRpx",
+      "name": "10",
+      "type": "IfcSpace",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRpX",
+      "name": "11",
+      "type": "IfcSpace",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRpa",
+      "name": "12",
+      "type": "IfcSpace",
+      "parent": "2nxdYR2RHCDBiKJuiQr1XP"
+    },
+    {
+      "id": "2nxdYR2RHCDBiKJuiQr1lO",
+      "name": "Level 2",
+      "type": "IfcBuildingStorey",
+      "parent": "2nxdYR2RHCDBiKJulbA_QV"
+    },
+    {
+      "id": "0ZBert7zf3GhThdOD2NKAr",
+      "name": "Basic Wall:Outside wall:358471",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQr1lO"
+    },
+    {
+      "id": "0ZBert7zf3GhThdOD2NK9o",
+      "name": "Basic Wall:Outside wall:358528",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQr1lO"
+    },
+    {
+      "id": "0ZBert7zf3GhThdOD2NK8_",
+      "name": "Basic Wall:Outside wall:358604",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQr1lO"
+    },
+    {
+      "id": "0ZBert7zf3GhThdOD2NK86",
+      "name": "Basic Wall:Outside wall:358644",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQr1lO"
+    },
+    {
+      "id": "0ZBert7zf3GhThdOD2NK7O",
+      "name": "Basic Wall:Inside:359210",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQr1lO"
+    },
+    {
+      "id": "0ZBert7zf3GhThdOD2NK5w",
+      "name": "Basic Wall:Inside:359304",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQr1lO"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NReX",
+      "name": "Floor:Generic 150mm:360659",
+      "type": "IfcSlab",
+      "parent": "2nxdYR2RHCDBiKJuiQr1lO"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRlN",
+      "name": "M_Fixed:0915 x 1830mm:360741",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQr1lO"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRlK",
+      "name": "M_Fixed:0915 x 1830mm:360742",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQr1lO"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRlL",
+      "name": "M_Fixed:0915 x 1830mm:360743",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQr1lO"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRlQ",
+      "name": "M_Fixed:0915 x 1830mm:360744",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQr1lO"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRlR",
+      "name": "M_Fixed:0915 x 1830mm:360745",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQr1lO"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRlO",
+      "name": "M_Fixed:0915 x 1830mm:360746",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQr1lO"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRky",
+      "name": "M_Fixed:0915 x 1830mm:360782",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQr1lO"
+    },
+    {
+      "id": "2nxdYR2RHCDBiKJuiQqMP5",
+      "name": "Level 4",
+      "type": "IfcBuildingStorey",
+      "parent": "2nxdYR2RHCDBiKJulbA_QV"
+    },
+    {
+      "id": "0ZBert7zf3GhThdO92NKAr",
+      "name": "Basic Wall:Outside wall:358471",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQqMP5"
+    },
+    {
+      "id": "0ZBert7zf3GhThdO92NK9o",
+      "name": "Basic Wall:Outside wall:358528",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQqMP5"
+    },
+    {
+      "id": "0ZBert7zf3GhThdO92NK8_",
+      "name": "Basic Wall:Outside wall:358604",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQqMP5"
+    },
+    {
+      "id": "0ZBert7zf3GhThdO92NK86",
+      "name": "Basic Wall:Outside wall:358644",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQqMP5"
+    },
+    {
+      "id": "0ZBert7zf3GhThdO92NK7O",
+      "name": "Basic Wall:Inside:359210",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQqMP5"
+    },
+    {
+      "id": "0ZBert7zf3GhThdO92NK5w",
+      "name": "Basic Wall:Inside:359304",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQqMP5"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRel",
+      "name": "Floor:Generic 150mm:360669",
+      "type": "IfcSlab",
+      "parent": "2nxdYR2RHCDBiKJuiQqMP5"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRWE",
+      "name": "M_Fixed:0915 x 1830mm:361212",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQqMP5"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRc2",
+      "name": "M_Fixed:0915 x 1830mm:361328",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQqMP5"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRaa",
+      "name": "M_Fixed:0915 x 1830mm:361430",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQqMP5"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRwc",
+      "name": "M_Fixed:0915 x 1830mm:361556",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQqMP5"
+    },
+    {
+      "id": "2nxdYR2RHCDBiKJuiQqMQj",
+      "name": "Level 5",
+      "type": "IfcBuildingStorey",
+      "parent": "2nxdYR2RHCDBiKJulbA_QV"
+    },
+    {
+      "id": "0ZBert7zf3GhThdOL2NKAr",
+      "name": "Basic Wall:Outside wall:358471",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQqMQj"
+    },
+    {
+      "id": "0ZBert7zf3GhThdOL2NK9o",
+      "name": "Basic Wall:Outside wall:358528",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQqMQj"
+    },
+    {
+      "id": "0ZBert7zf3GhThdOL2NK8_",
+      "name": "Basic Wall:Outside wall:358604",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQqMQj"
+    },
+    {
+      "id": "0ZBert7zf3GhThdOL2NK86",
+      "name": "Basic Wall:Outside wall:358644",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQqMQj"
+    },
+    {
+      "id": "0ZBert7zf3GhThdOL2NK7O",
+      "name": "Basic Wall:Inside:359210",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQqMQj"
+    },
+    {
+      "id": "0ZBert7zf3GhThdOL2NK5w",
+      "name": "Basic Wall:Inside:359304",
+      "type": "IfcWallStandardCase",
+      "parent": "2nxdYR2RHCDBiKJuiQqMQj"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NReL",
+      "name": "Floor:Generic 150mm:360679",
+      "type": "IfcSlab",
+      "parent": "2nxdYR2RHCDBiKJuiQqMQj"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRuu",
+      "name": "M_Fixed:0915 x 1830mm:361674",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQqMQj"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NR$u",
+      "name": "M_Fixed:0915 x 1830mm:361738",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQqMQj"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NR_2",
+      "name": "M_Fixed:0915 x 1830mm:361840",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQqMQj"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRz8",
+      "name": "M_Fixed:0915 x 1830mm:361914",
+      "type": "IfcWindow",
+      "parent": "2nxdYR2RHCDBiKJuiQqMQj"
+    },
+    {
+      "id": "2nxdYR2RHCDBiKJuiQqPdh",
+      "name": "Level 6",
+      "type": "IfcBuildingStorey",
+      "parent": "2nxdYR2RHCDBiKJulbA_QV"
+    },
+    {
+      "id": "0ZBert7zf3GhThbO52NRe3",
+      "name": "Basic Roof:Generic - 400mm:360689",
+      "type": "IfcRoof",
+      "parent": "2nxdYR2RHCDBiKJuiQqPdh"
+    },
+    {
+      "id": "0ZBert7zf3GhThbOD2NRe3",
+      "name": "Basic Roof:Generic - 400mm:360689",
+      "type": "IfcSlab",
+      "parent": "0ZBert7zf3GhThbO52NRe3"
+    }
+  ]
+}
